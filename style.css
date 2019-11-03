@@ -1,0 +1,51 @@
+*{
+  box-sizing: border-box;
+  letter-spacing: 0.08em;
+  color: DarkOrange;
+}
+
+header{
+  width: 100%;
+  padding: 20px 10%;
+  position: relative;
+}
+
+.headerTitle{
+  margin: 0 5%;
+  display: inline;
+  font-size: 20px;
+}
+
+h1, h2 {
+  font-style: normal;
+  font-weight: normal;
+text-align: center;
+}
+
+.container{
+  width: 100%;
+  padding:3% 10%;
+  background-color: black;
+  position: relative;
+}
+
+.hidden{
+  display: none;
+}
+
+.comicsans{
+font-family:  "Comic Sans MS", cursive, sans-serif;
+}
+
+.font1{
+font-family: 'Noto Serif SC', serif;
+}
+
+
+.font2{
+font-family: 'Suez One', serif;
+}
+
+.font3{
+font-family: 'Montserrat', sans-serif;
+}
